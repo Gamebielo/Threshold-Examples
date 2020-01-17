@@ -1,5 +1,8 @@
 # Threshold-Examples
 OpenCV + Python
+<br><br>
+src = Imagem atual<br>
+dst = Imagem de destino<br>
 
 <h2>Binary Thresholding ( type = THRESH_BINARY )</h2>
 <pre>
